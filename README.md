@@ -1,24 +1,10 @@
-# README
+# Object Oriented Practices
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+You can get examples object oriented practices.
 
-Things you may want to cover:
+## List of practicess
+### Leverage the "model" in mvc
 
-* Ruby version
+## Refrences
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+https://github.com/nslocum/design-patterns-in-ruby
